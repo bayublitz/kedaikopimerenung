@@ -338,7 +338,7 @@ footer
     position: absolute;
     top: 100%;
     right: -100%;
-    background-image: url("/img/6.jpg");
+    background-image: url("../img/6.jpg");
     background-size: cover;
     background-position: center;
     width: 25rem;
